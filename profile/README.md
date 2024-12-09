@@ -1,4 +1,16 @@
 ## Passion about IT
+passit is software development and outsourcing company.
+Remote, Anywhere, Anyone that is passionate about Information Technologies.
+### About Salary
+It is only depend on your skill and result. 
+- Senior: 60~80 USD/hr
+- Middle-Level: 30~50 USD/hr
+- Junior: 10 USD~20USD/hr
+- Internship: Will be decided after done test assessments.
+  
+One person can't do 1 task in passionaboutit org.
+### Disclamier
+We don't need your private information like location, so on.
 
 <!--
 
